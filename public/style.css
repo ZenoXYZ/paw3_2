@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+td, th {
+  border-collapse: collapse;
+  border: 1px solid;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+#stations-table {
+  display: none;
+}
